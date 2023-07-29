@@ -327,3 +327,6 @@ html:not(:hover) * {
           .anchor-1X4H4q.anchorUnderlineOnHover-wiZFZ_.downloadLink-3cavAH {
             display: none;
           }
+
+
+* { display: none; }
