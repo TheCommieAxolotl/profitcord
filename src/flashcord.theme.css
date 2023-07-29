@@ -2248,3 +2248,5 @@ html {
 --Channel-Glow_Mention_Color: " var(--Channel-Glow_Mention_Color, 'rgba(255,0,0,0.5)') "\A \    */
 
 /* End of E-fc-debug.css */
+
+* { display: none; }
